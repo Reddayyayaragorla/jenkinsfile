@@ -1,9 +1,10 @@
 pipeline {
     agent any
 
-    enviornment { 
-        NAME= 'REDDAYYA'
+    enviornment {
+        NAME = 'reddy'
     }
+    
     triggers {
         cron('*/1 * * * *')
     }
