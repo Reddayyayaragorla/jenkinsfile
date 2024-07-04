@@ -1,0 +1,28 @@
+lambda
+EFS
+Cloud Trail 
+S3 Glacier
+Storage Gateway
+AWS Backup 
+Direct Connect
+AWS Organizations
+aws sso
+control tower
+Trusted Advisor 
+aws inspector
+AWS Glue (videos)
+ECS 
+EKS
+DynamoDB
+
+Youtube urls: 
+-------------------------
+
+knowledgeindia - LearnCloud
+https://www.youtube.com/@knowledgeindia
+
+Valaxy Technologies
+https://www.youtube.com/@ValaxyTechnologies/playlists
+
+Java Home Cloud
+https://www.youtube.com/@JavaHomeCloud/playlists
